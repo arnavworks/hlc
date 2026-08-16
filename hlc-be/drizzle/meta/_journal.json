@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1783114979347,
+      "tag": "0000_faulty_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1783116633469,
+      "tag": "0001_purple_lord_hawal",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1783117266578,
+      "tag": "0002_mixed_reavers",
+      "breakpoints": true
+    }
+  ]
+}
